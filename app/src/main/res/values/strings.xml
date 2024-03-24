@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tugas Day 5</string>
+    <string name="string_hello">Hello World!</string>
+    <string name="string_helloking">Hello King</string>
+    <string name="string_country">I am from United States</string>
+    <string name="string_hobby">My Hobby is Football</string>
+</resources>
